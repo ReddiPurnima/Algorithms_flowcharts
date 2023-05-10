@@ -1,0 +1,7 @@
+1.start
+2.login to the employee management system
+3.enter employee ID and password
+4.if your login credentials is correct
+    print manage employee manage attendance manage salary manage leaves
+5.logout from the system
+6.stop
