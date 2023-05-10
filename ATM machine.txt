@@ -1,0 +1,18 @@
+1.start
+2.insert a card
+3.check if the card is valid
+4. if the card is not valid return card
+5.enter the language 
+6.enter the pin
+7. if the pin is incorrect
+ re-enter the pin
+8. again if the pin is incorrect
+  enter the pin twice only
+9.if the pin is correct
+10.select your type of account
+11. enter amount
+12. if there is sufficient balance then withdraw the amount
+13.else there is insufficient balance in your account
+14.take the receipt
+15.remove the card
+16.stop

@@ -1,0 +1,7 @@
+1.start
+2.first choose your dish
+3.select the ingrediants
+4.preparing the item
+5.check if it gives good taste or not
+6. tasting the food
+7.stop
