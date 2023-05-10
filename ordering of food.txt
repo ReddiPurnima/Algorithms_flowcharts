@@ -1,0 +1,10 @@
+1.start
+2.install the app
+3.give your login credentials
+4.choosing the restaurant
+6.select our food iitem
+7.add to our cart after that place the order
+8.give your address
+9.choosing payment method
+10.order placed
+11. stop

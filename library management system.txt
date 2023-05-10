@@ -1,0 +1,8 @@
+Step 1- start
+        2-Entering the library with signature
+        3-choosing the book
+        4- enter or scan our ID 
+        5-approval of management
+        6-stamp on the book that will show the renewal date  
+        7-enter book number with signature while leaving
+        8- stop
