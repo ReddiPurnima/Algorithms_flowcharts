@@ -1,0 +1,12 @@
+input:take the number
+output: reverse the number
+procedure:reverse the given number
+1.start
+2.read the input n
+3.initialise and declare the value reverse=0
+4.using while loop(while n>0)
+5.remainder=n%10
+6.reverse of the number=reverse*10+reminder
+7.n=n//10
+8.print"reverse of the number"
+9.end procedure

@@ -1,0 +1,7 @@
+1.start
+2.enter the student name
+3.enter the roll number and section
+4.calculate the  daily attendance
+5.measure the overall score of the student
+6.stop
+  
