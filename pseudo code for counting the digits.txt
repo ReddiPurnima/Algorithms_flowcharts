@@ -1,0 +1,10 @@
+input:take the number 12345
+output:count the digits
+procedure:  count the digits in the given number
+1.initialize the count value to zero
+2. if n is greater than zero the loop will continue
+3.divide the number//10  then we get the value 
+4.update count value
+5.print count
+6.loop exit
+7.stop
