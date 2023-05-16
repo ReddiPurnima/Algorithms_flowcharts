@@ -1,0 +1,12 @@
+public class Main
+{
+	public static void main(String[] args) {
+		System.out.println("Wrapper class");
+		int a=5;
+		Integer i=new Integer(a);
+		System.out.println(a);
+		}
+}
+
+output:
+Wrapper class5
